@@ -1,0 +1,20 @@
+[Reports]
+Number=1
+
+[Report #1]
+Name=test
+Location=C:\WINDOWS\Desktop\CrystalReportsViewer\Reports\test.rpt
+
+[Logon Info]
+DLL=pdsodbc.dll
+UserID=king
+Password=king123
+Auto=YES
+
+[Report #2]
+Name=bill
+Location=C:\WINDOWS\Desktop\bill.rpt
+
+[Report #3]
+Name=PIN Owners
+Location=C:\WINDOWS\Desktop\crystal reports project2\Reports\PIN Owners.rpt
